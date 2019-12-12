@@ -1,0 +1,74 @@
+{
+  "common": {
+    "labels": {
+      "username": "Username",
+      "password": "Password",
+      "login": "Log in",
+      "register": "Register",
+      "confirm password": "Confirm Password",
+      "add partner": "Add Partner",
+      "add disease": "Add Disease",
+      "name": "Name",
+      "from": "From",
+      "to": "To",
+      "city": "City of interaction",
+      "save": "Save",
+      "chat": "Chat",
+      "medical history": "Medical History",
+      "partners": "Partners",
+      "about": "About us",
+      "encyclopedia": "Encyclopedia",
+      "feedback": "Feedback",
+      "logout": "Log out",
+      "dashboard": "Dashboard",
+      "send": "Send"
+    },
+    "reusable": {
+      "std": "Sexually Transmitted Diseases",
+      "under construction": "Sorry! This app is still under construction.",
+      "funtion disable": "This function is not enabled",
+      "inform partner": "Inform partner",
+      "hello": "Hello",
+      "inform": "Inform",
+      "anonymously": "Anonymously!",
+      "message": "Message",
+      "disease": "Disease",
+      "you sure": "Are you sure?",
+      "deleteMsg": "Do you want to delete your partner?",
+      "no": "No",
+      "yes": "Yes"
+    }
+  },
+  "validation": {
+    "invalid email": "Please enter a valid email address",
+    "invalid username": "Please enter a valid username",
+    "invalid password": "You need at least 6 characters",
+    "repeat password": "Repeat your password",
+    "alredy exist": "This user already exists!",
+    "wrong inputs": "Please fill out the form correctly",
+    "succesfully added": "Successfully added partner",
+    "succesfully deleted": "Successfully deleted partner"
+  },
+  "addPartner": {
+    "age of partner": "Age of partner during interaction",
+    "reveal name": "Reveal your name to partner",
+    "unknow": "If you dont check the checkbox. You will be shown as an unknown person!",
+    "short nickname": "A short nickname can be enough sometimes.",
+    "estimate years": "An estimate in years can be enough.",
+    "interaction date": "Interaction date"
+  },
+  "notification": {
+    "title": "$t(common.reusable.inform) {{name}} $t(common.reusable.anonymously)",
+    "inform anonymously": "Inform anonymously for 0.99$",
+    "service price": "This service costs 99 cents and the user will be informed via Email anonymously",
+    "message": "$t(common.reusable.hello) {{name}}, we are sorry to inform you that one of your ex-partners has contracted std ($t(common.reusable.std)) around the time of your encounter. He/she wishes to stay anonymous and even we do not have the possibility to see his/her personal information.This notification is automated.We strongly advise you to check with you doctor and possibly inform your ex-partner.",
+    "is informed": "Has been inform",
+    "partner email": "In order to inform your ex partner you need to provide their email.",
+    "alert messsage": "This message will automatically notify you ex partner!"
+  },
+  "login": {
+    "title": "Protect your community",
+    "not a member": "Not a member?",
+    "alredy have account": "Already have an account?"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "labels": {
+      "username": "Nutzername",
+      "password": "Passwort",
+      "login": "Einloggen",
+      "register": "Registrieren",
+      "confirm password": "Passwort bestätigen",
+      "add partner": "Partner hinzufügen",
+      "add disease": "Krankheit hinzufügen",
+      "name": "Name",
+      "from": "von",
+      "to": "zu",
+      "city": "Stadt der Interaktion",
+      "save": "sparen",
+      "chat": "Plaudern",
+      "medical history": "Krankengeschichte",
+      "partners": "Partner",
+      "about": "Über uns",
+      "encyclopedia": "Enzyklopädie",
+      "feedback": "Feedback",
+      "logout": "Ausloggen",
+      "dashboard": "Instrumententafel",
+      "send": "Senden"
+    },
+    "reusable": {
+      "std": "Sexuell übertragbare Krankheiten",
+      "under construction": "Es tut uns leid! Diese App befindet sich noch im Aufbau.",
+      "funtion disable": "Diese Funktion ist nicht aktiv",
+      "inform partner": "Partner informieren",
+      "hello": "Hallo",
+      "inform": "Informieren",
+      "anonymously": "Anonym!",
+      "message": "Botschaft",
+      "disease": "Krankheit",
+      "you sure": "Bist du sicher?",
+      "deleteMsg": "Möchten Sie Ihren Partner löschen?",
+      "no": "Nein",
+      "yes": "Ja"
+    }
+  },
+  "validation": {
+    "invalid email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "invalid username": "Bitte geben Sie einen gültigen Benutzername ein",
+    "invalid password": "Du brauchst mindestens 6 Zeichen!",
+    "repeat password": "Wiederhole dein Passwort",
+    "alredy exist": "Dieser Benutzer existiert bereits!",
+    "wrong inputs": "Bitte füllen Sie das Formular korrekt aus",
+    "succesfully added": "Partner erfolgreich hinzugefügt",
+    "succesfully deleted": "Partner erfolgreich gelöscht"
+  },
+  "addPartner": {
+    "age of partner": "Alter des Partners während der Interaktion",
+    "reveal name": "Verrate deinen Namen dem Partner!",
+    "unknow": "Wenn Sie das Kontrollkästchen nicht markieren, werden Sie als unbekannte Person angezeigt!",
+    "short nickname": "Ein kurzer Spitzname kann manchmal genug sein.",
+    "estimate years": "Eine Schätzung in Jahren kann ausreichen!",
+    "interaction date": "Interaktionsdatum"
+  },
+
+  "notification": {
+    "title": "$t(common.reusable.inform) {{name}} $t(common.reusable.anonymously)",
+    "inform anonymously": "Informieren Sie sich für 0,99 $",
+    "service price": "Dieser Service kostet 99 Cent und der Nutzer wird anonym per Email informiert",
+    "message": "$t(common.reusable.hello) {{name}}, es tut uns leid, Ihnen mitzuteilen, dass einer Ihrer Ex-Partner rund um Ihre Begegnung std ($t(common.reusable.std)) abgeschlossen hat. Er / Sie möchte anonym bleiben, und selbst wenn wir keine Möglichkeit haben, seine persönlichen Informationen einzusehen, ist diese Benachrichtigung automatisiert. Wir empfehlen Ihnen dringend, Ihren Arzt zu konsultieren und möglicherweise Ihren Ex-Partner zu informieren.",
+    "is informed": "Wurde informiert",
+    "partner email": "Um Ihren Ex-Partner zu informieren, müssen Sie deren E-Mail-Adresse angeben.",
+    "alert messsage": "Diese Nachricht informiert Sie automatisch Ihren Ex-Partner!"
+  },
+  "login": {
+    "title": "Schützen Sie Ihre Gemeinschaft",
+    "not a member": "Kein Mitglied?",
+    "alredy have account": "Hast du schon ein Konto?"
+  }
+}
